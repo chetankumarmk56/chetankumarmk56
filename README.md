@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Chetan Kumar 👋
 
-<!--
-**chetankumarmk56/chetankumarmk56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building scalable SaaS platforms and AI-powered applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React.js
+- Next.js
+- FastAPI
+- PostgreSQL
+- TypeScript
+- AWS
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Multi-tenant ERP systems
+- AI workflow integration
+- Scalable backend architecture
+- SaaS platforms
+
+## Featured Project
+### EduTrack – School ERP SaaS Platform
+- Multi-role architecture
+- AI-powered lesson planning
+- JWT authentication
+- AWS S3 integration
+- Modular backend design
