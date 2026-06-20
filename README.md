@@ -1,20 +1,25 @@
 <!-- ============================================================= -->
-<!--                    HEADER  ·  TYPING TITLE                     -->
+<!--                       HEADER BANNER                           -->
 <!-- ============================================================= -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6AA6FF&height=240&section=header&text=Chetan%20Kumar%20M%20K&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20SaaS%20%26%20AI%20Builder&descAlignY=60&descSize=20" width="100%" alt="Chetan Kumar M K" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=6AA6FF&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Chetan+Kumar+%F0%9F%91%8B" alt="Chetan Kumar" />
+<!-- ============================================================= -->
+<!--                       TYPING SUBTITLE                         -->
+<!-- ============================================================= -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AA6FF&center=true&vCenter=true&width=720&height=45&lines=React+%E2%80%A2+Next.js+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;Building+Multi-Tenant+SaaS+Platforms;AI+Workflow+Integration+%26+LLM-Powered+Apps" alt="Roles" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B95A7&center=true&vCenter=true&width=800&height=45&lines=Full-Stack+Developer+%7C+SaaS+%26+AI+Builder;React+%E2%80%A2+Next.js+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;Building+Multi-Tenant+SaaS+%26+LLM-Powered+Apps" alt="Roles" />
-
-<br/><br/>
-
-<!-- SOCIAL BADGES (these are intentionally clickable) -->
-<a href="mailto:chetankumarmk56@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/chetankumarmk56"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://komarev.com/ghpvc/?username=chetankumarmk56&style=for-the-badge&color=6aa6ff&label=PROFILE+VIEWS" alt="Profile Views" />
-
+<!-- ============================================================= -->
+<!--                       SOCIAL BADGES                           -->
+<!-- ============================================================= -->
+<div align="center">
+  <a href="mailto:chetankumarmk56@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/chetankumarmk56"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=chetankumarmk56&style=for-the-badge&color=6aa6ff&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -24,7 +29,7 @@
 <!-- ============================================================= -->
 ## &nbsp;👨‍💻&nbsp; About Me
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=chetankumarmk56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6aa6ff&icon_color=6aa6ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=chetankumarmk56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6aa6ff&icon_color=6aa6ff&text_color=c9d1d9" alt="GitHub Stats" />
 
 ```python
 class ChetanKumar:
@@ -37,9 +42,9 @@ class ChetanKumar:
         self.motto    = "Ship clean, modular, production-ready code"
 ```
 
-🔭&nbsp; Building **multi-tenant ERP & SaaS platforms** at scale
+🔭&nbsp; Building **multi-tenant ERP &amp; SaaS platforms** at scale
 
-🤖&nbsp; Deep into **AI workflow integration** & **LLM-powered features**
+🤖&nbsp; Deep into **AI workflow integration** &amp; **LLM-powered features**
 
 🏗️&nbsp; I architect **modular, service-oriented backends**
 
@@ -58,23 +63,23 @@ class ChetanKumar:
 
 <div align="center">
 
-#### &nbsp;&nbsp;&nbsp; Languages
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### &nbsp;&nbsp;&nbsp; Frontend
+#### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### &nbsp;&nbsp;&nbsp; Backend
+#### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-#### &nbsp;&nbsp;&nbsp; Databases &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; Tools
+#### Databases &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -118,11 +123,11 @@ A production-grade **multi-tenant ERP** powering independent school operations t
 
 **`React.js`** &nbsp; **`Next.js`** &nbsp; **`FastAPI`** &nbsp; **`PostgreSQL`** &nbsp; **`AWS S3`**
 
-🏛️ &nbsp; Multi-tenant architecture with 4 role-based portals &nbsp;&nbsp;|&nbsp;&nbsp; 🔐 &nbsp; JWT auth + RBAC
+🏛️ &nbsp; Multi-tenant architecture, 4 role-based portals &nbsp;·&nbsp; 🔐 &nbsp; JWT auth + RBAC
 
-🤖 &nbsp; AI-powered lesson-plan & question-bank generation &nbsp;&nbsp;|&nbsp;&nbsp; ☁️ &nbsp; AWS S3 document storage
+🤖 &nbsp; AI-powered lesson-plan &amp; question-bank generation &nbsp;·&nbsp; ☁️ &nbsp; AWS S3 storage
 
-🧩 &nbsp; Modular, service-oriented backend built to scale &nbsp;&nbsp;|&nbsp;&nbsp; 📈 &nbsp; Analytics dashboards
+🧩 &nbsp; Modular, service-oriented backend built to scale &nbsp;·&nbsp; 📈 &nbsp; Analytics dashboards
 
 </td></tr>
 </table>
@@ -144,6 +149,8 @@ A production-grade **multi-tenant ERP** powering independent school operations t
 
 ### ✨ &nbsp; Let's build something great together &nbsp; ✨
 
-<i>Open to full-stack & AI engineering opportunities</i>
+<i>Open to full-stack &amp; AI engineering opportunities</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6AA6FF,100:0D1117&height=120&section=footer" width="100%" alt="" />
 
 </div>
