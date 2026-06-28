@@ -31,16 +31,7 @@
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=chetankumarmk56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6aa6ff&icon_color=6aa6ff&text_color=c9d1d9" alt="GitHub Stats" />
 
-```python
-class ChetanKumar:
-    def __init__(self):
-        self.role     = "Full-Stack Developer"
-        self.location = "Karnataka, India"
-        self.focus    = ["Scalable SaaS", "AI-Powered Apps"]
-        self.stack    = ["React", "Next.js", "FastAPI",
-                         "PostgreSQL", "TypeScript", "AWS"]
-        self.motto    = "Ship clean, modular, production-ready code"
-```
+> **Full-Stack Developer** from **Karnataka, India** 🇮🇳 — I build **scalable SaaS platforms** and **AI-powered applications**, shipping clean, modular, production-ready code.
 
 🔭&nbsp; Building **multi-tenant ERP &amp; SaaS platforms** at scale
 
@@ -50,7 +41,9 @@ class ChetanKumar:
 
 🏆&nbsp; **India AI Fellowship** — top **10 projects nationwide**
 
-📫&nbsp; **chetankumarmk56@gmail.com**
+🧰&nbsp; Daily stack — **React · Next.js · FastAPI · PostgreSQL · TypeScript · AWS**
+
+📫&nbsp; Reach me at **chetankumarmk56@gmail.com**
 
 <br clear="right"/>
 
